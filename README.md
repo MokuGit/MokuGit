@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MokuGit
 - 👀 I’m interested in video games, basketball and organization
-- 🌱 I’m currently learning java and racket
+- 🌱 I’m currently learning c++
 
 <!---
 MokuGit/MokuGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
